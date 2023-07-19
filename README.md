@@ -33,4 +33,5 @@ L'âge doit être supérieur à 18
 Le password doit contenir au moins 6 caractères (stp, ne mets JAMAIS d'autres règles pour les mots de passe)
 L'email doit avoir le format classique d'un email
 Les CGU doivent être acceptées
-Pour certains éléments, tu devras te servir des Regex ;)
+
+Pour certains éléments, l'utilisation des Regex sera nécessaire ;)
